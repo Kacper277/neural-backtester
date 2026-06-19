@@ -20,6 +20,7 @@ models/*.pth
 models/*.pt
 
 # Logi MLflow (jeśli trzymasz lokalnie)
+mlflow.db
 mlruns/
 
 # Pliki IDE
